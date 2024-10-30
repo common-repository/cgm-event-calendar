@@ -1,0 +1,52 @@
+#events_calendar_admin label, #events_calendar_admin input {
+	float: left;
+	clear: none;
+}
+
+#events_calendar_admin label {
+	padding: 0 10px;
+	float: left;
+	clear: none;
+}
+
+#calendar_include_dates select, #calendar_exclude_dates select {
+	width: 215px;
+	height: 60px;
+}
+
+#calendar_tags {
+	float: left;
+}
+
+#calendar_tags p {
+	float: left;
+	margin: 0 0 5px;
+}
+
+#calendar_tags label {
+	width: 150px;
+	float: left;
+}
+
+#calendar_tags input {
+	float: left;
+}
+
+#events_calendar_admin th .disabled, #events_calendar_admin .disabled {
+	color: #bbb;
+}
+
+.entry_tag {
+	float: left;
+	width: 10px;
+	height: 10px;
+	margin: 3px 5px 0 0;
+}
+
+.color_sample {
+	text-indent: -10000px;
+	height: 15px;
+	width: 60px;
+	margin: 5px 0 0;
+	float: left;
+}
